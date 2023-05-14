@@ -1,0 +1,22 @@
+{
+  "name": "com.binaryego.ncalc",
+  "displayName": "NCalc",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "description": "Version of NCalc (mathematical expressions evaluator) package for BinaryEgo tools.",
+  "author": {
+	"name": "Peter @sHTiF Stefcek",
+	"email": "pshtif@gmail.com"
+  },
+  "documentationUrl": "https://github.com/pshtif/NCalc",
+  "changelogUrl": "https://github.com/pshtif/NCalc/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/pshtif/NCalc/blob/main/LICENSE",
+  "keywords": [ 
+	"package",
+	"unity",
+	"expressions",
+    "math"
+  ],
+  "dependencies": {
+  }
+}
